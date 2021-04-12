@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KelvinAlberto 
+- 👋 Hi, I’m @KelvinAlberto software developer
 - 👀 I’m interested in software and video game development.
 - 🌱 I am currently learning about Object Oriented Programming and Web Page Design.
 - 💞️ I am looking to collaborate in software development projects.
