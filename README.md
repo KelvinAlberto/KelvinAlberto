@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KelvinAlberto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KelvinAlberto 
+- 👀 I’m interested in software and video game development.
+- 🌱 I am currently learning about Object Oriented Programming and Web Page Design.
+- 💞️ I am looking to collaborate in software development projects.
+- 📫 How to reach me: karr2203@gmail.com
 
 <!---
 KelvinAlberto/KelvinAlberto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
